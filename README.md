@@ -1,5 +1,5 @@
-# Paribas_Kaggle_Comp
-Can you accelerate BNP Paribas Cardif's claims management process?
+# BNP Paribas Cardif Claims Management
+## Can you accelerate BNP Paribas Cardif's claims management process?
 
 As a global specialist in personal insurance, BNP Paribas Cardif serves 90 million clients in 36 countries across Europe, Asia and Latin America.
 
